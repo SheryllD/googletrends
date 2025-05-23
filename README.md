@@ -11,8 +11,7 @@ This project demonstrates how to:
 - Visualise search trends for multiple keywords
 - Perform time series decomposition to uncover underlying components
 
-The notebook uses examples such as `chatgpt`, `ai`, and `deepseek`, focusing on search activity within Germany over the past five years.
-
+This notebook explores search activity in the United States over the past five years using examples such as `bitcoin`, `ethereum`, and `dogecoin`, `blockchain`, `nft`.
 
 ## Installation
 
