@@ -59,7 +59,24 @@ This structure allows for both exploratory analysis and preparation for future p
 - Integrate forecasting techniques such as ARIMA or Prophet
 - Combine trend data with external datasets for richer insights
 
+## Collaboration
+This project started as a personal experiment. If you’re exploring similar questions, remixing the notebook, or thinking about trends in your own domain, I’d love to hear from you!
+
+Whether you have ideas, feedback, suggestions, or just curiosity, feel free to reach out.
+If you spot something that could be improved or want to contribute, your perspective is more than welcome.
+
+Let’s keep learning, testing, and building better ideas, together!
+
 ## Author
 Sheryll Dumapal.
 
 Building responsible, data-driven tools with clarity and purpose.
+
+**Final Note:**
+Explore, build, share, and comment, and most importantly have fun!
+
+May the force be with you.
+
+Stay powerful,
+
+Sheryll
