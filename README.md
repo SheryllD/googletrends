@@ -36,10 +36,8 @@ pip install pytrends pandas matplotlib seaborn statsmodels
 5. Apply seasonal decomposition to one or more keyword time series.
 
 ## API 
-from pytrends.request import TrendReq
 
-Example: 
-pytrends = TrendReq(hl='en-US', tz=360)  
+<pre> ```python from pytrends.request import TrendReq # Example usage: pytrends = TrendReq(hl='en-US', tz=360) ``` </pre>
 
 NOTE: You can also use proxies if you're blocked due to Google's rate limits.
 
