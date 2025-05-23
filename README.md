@@ -14,7 +14,7 @@ This project demonstrates how to:
 The notebook uses examples such as `chatgpt`, `ai`, and `deepseek`, focusing on search activity within Germany over the past five years.
 
 
-## Requirements
+## Installation
 
 To run this notebook, install the following Python packages:
 
@@ -23,12 +23,27 @@ pip install pytrends pandas matplotlib seaborn statsmodels
 
 ```
 
+## Recuirements 
+- Written for Python 3.3+
+- Requires Requests, lxml, Pandas
+
+
 ## Usage
 1. Open the pytrends.ipynb notebook.
 2. Define the keywords of interest.
 3. Retrieve and inspect the trend data.
 4. Visualise the trends over time.
 5. Apply seasonal decomposition to one or more keyword time series.
+
+## API 
+from pytrends.request import TrendReq
+
+Example: 
+pytrends = TrendReq(hl='en-US', tz=360)  
+
+NOTE: You can also use proxies if you're blocked due to Google's rate limits.
+
+<pre> ```python from pytrends.request import TrendReq pytrends = TrendReq( hl='en-US', tz=360, timeout=(10, 25), proxies=['https://34.203.233.13:80'], retries=2, backoff_factor=0.1, requests_args={'verify': False} ) ``` </pre>
 
 ## Methodology
 The analysis follows these main steps:
