@@ -45,6 +45,7 @@ This structure allows for both exploratory analysis and preparation for future p
 - Integrate forecasting techniques such as ARIMA or Prophet
 - Combine trend data with external datasets for richer insights
 
-### Author
-Sheryll Dumapal
+## Author
+Sheryll Dumapal.
+
 Building responsible, data-driven tools with clarity and purpose.
