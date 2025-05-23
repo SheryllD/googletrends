@@ -23,14 +23,12 @@ pip install pytrends pandas matplotlib seaborn statsmodels
 
 ```
 
-
 ## Usage
 1. Open the pytrends.ipynb notebook.
 2. Define the keywords of interest.
 3. Retrieve and inspect the trend data.
 4. Visualise the trends over time.
 5. Apply seasonal decomposition to one or more keyword time series.
-
 
 ## Methodology
 The analysis follows these main steps:
@@ -42,18 +40,10 @@ The analysis follows these main steps:
 
 This structure allows for both exploratory analysis and preparation for future predictive modelling.
 
-
-## License
-Copyright (c) 2025 Sheryll Dumapal
-This software is licensed for personal and non-commercial use only.
-
-Commercial use, resale, sublicensing, or profit-based distribution is not permitted without prior written consent from the author.
-
 ## Future Improvements
 - Apply decomposition to additional keywords
 - Integrate forecasting techniques such as ARIMA or Prophet
 - Combine trend data with external datasets for richer insights
-
 
 ### Author
 Sheryll Dumapal
