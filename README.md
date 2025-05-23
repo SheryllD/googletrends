@@ -72,7 +72,7 @@ Sheryll Dumapal.
 
 Building responsible, data-driven tools with clarity and purpose.
 
-**Final Note:**
+## Final Note:
 Explore, build, share, and comment, and most importantly have fun!
 
 May the force be with you.
